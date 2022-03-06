@@ -1,6 +1,8 @@
 hello World!222
+<<<<<<< HEAD
 hello git!master test
-hello git!
+hello git!host-fox test
+>>>>>>> hot-fix
 hello git!
 hello World!
 hello World!
